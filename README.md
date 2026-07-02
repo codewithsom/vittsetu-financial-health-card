@@ -1,6 +1,6 @@
 # 🚀 VittSetu – MSME Financial Health Card
 
-VittSetu is an AI-powered prototype designed to solve one of the biggest challenges in MSME lending — lack of formal financial history.
+VittSetu is an AI-powered prototype designed to solve one of the biggest challenges in MSME lending lack of formal financial history.
 
 Instead of relying on traditional balance sheets, VittSetu uses **alternate data sources like GST, UPI, EPFO, and Account Aggregator (AA)** to generate a **Financial Health Score (0–100)**.
 
