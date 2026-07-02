@@ -104,8 +104,6 @@ VittSetu creates a **document-free, explainable financial profile** for MSMEs us
 
 🔗 Live Demo: https://finhealthai.somya7rawat.workers.dev/
 
-🎥 Demo Video: *(Add your link here)*
-
 ---
 
 ## 🚀 Future Scope
