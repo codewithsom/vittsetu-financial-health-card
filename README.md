@@ -117,7 +117,7 @@ VittSetu creates a **document-free, explainable financial profile** for MSMEs us
 
 ## 👩‍💻 Author
 
-**Somya Rawat**
+**Somya Rawat** |
 Product Manager | Tech Enthusiast | Builder
 
 ---
